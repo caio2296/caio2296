@@ -11,6 +11,11 @@ Olá! Meu nome é Caio Cesar, estou cursando Análise e Desenvolvimento de Siste
   </a>
 </div>
 
+## Trabalhos 💻
+
+ * Atualmente estou estudando mais sobre desenvolvimento web com C#. 👨🏼‍💻
+ * Desenvolvo pequenos e grandes projetos com o objetivo de aprimorar ainda mais as minhas habilidades na área. 📈
+
 <!--
 **caio2296/caio2296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
