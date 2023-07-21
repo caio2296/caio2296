@@ -13,7 +13,7 @@ Olá! Meu nome é Caio Cesar, estou cursando Análise e Desenvolvimento de Siste
 
 ## Trabalhos 💻
 
- * Atualmente estou estudando mais sobre desenvolvimento web com C#. 👨🏼‍💻
+ * Atualmente estou estudando mais sobre desenvolvimento web com C# e angular. 👨🏼‍💻
  * Desenvolvo pequenos e grandes projetos com o objetivo de aprimorar ainda mais as minhas habilidades na área. 📈
 
 <!--
