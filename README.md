@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Cesar-ad0c5a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cesar-da-silva-louren%C3%A7o-a5b947159/)](https://www.linkedin.com/in/caio-cesar-da-silva-louren%C3%A7o-a5b947159/) 
 [![Gmail Badge](https://img.shields.io/badge/-caiocesarjck@gmail.com-ad0c5a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiocesarjck@gmail.com)](mailto:caiocesarjck@gmail.com)
 
-Olá! Meu nome é Caio Cesar, estou cursando Análise e Desenvolvimento de Sistemas. 👨🏼‍🎓
+Olá! Meu nome é Caio Cesar, sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Engenharia de Software. 👨🏼‍🎓
 
 <div align="left">
   <a href="https://github.com/caio2296">
