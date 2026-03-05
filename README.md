@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caio2296&theme=radical" /> </div> <div align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caio2296&theme=radical" /> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caio2296&theme=radical" /> </div>
