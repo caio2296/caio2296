@@ -8,6 +8,7 @@ Olá! Meu nome é Caio Cesar, sou formado em Análise e Desenvolvimento de Siste
   <a href="https://github.com/caio2296">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caio2296&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caio2296&layout=compact&langs_count=7&theme=radical"/>
+    <div align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caio2296&theme=radical" /> </div> <div align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caio2296&theme=radical" /> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caio2296&theme=radical" /> </div>
   </a>
 </div>
 
@@ -32,4 +33,4 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caio2296&theme=radical" /> </div> <div align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caio2296&theme=radical" /> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caio2296&theme=radical" /> </div>
+
